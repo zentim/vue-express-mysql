@@ -50,6 +50,11 @@ npm start
 ## Step 4: Test
 serve with hot reload at `localhost:8080`
 
+## 參考
+* 做 vue + express + mysql 的全端練習，[Vue+MySQL+Express小试牛刀](https://segmentfault.com/a/1190000008176208)
+* 改用 axios，[Vue.js 2.0 如何使用axios](https://www.jianshu.com/p/4dd17f0ae442)
+* 解決跨域請求問題 [Vue-cli proxyTable 解决开发环境的跨域问题](https://www.jianshu.com/p/95b2caf7e0da)
+
 -----
 
 ## Build Setup
